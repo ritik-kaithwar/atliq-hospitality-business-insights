@@ -140,10 +140,15 @@ The data model was designed as a star schema for efficient reporting.
 
 ## Dashboard Preview  
 ![Overview](/atliq_hospitality_business_insights/images/overview.jpg)
+
 *High-level KPIs (Revenue, ADR, RevPAR, Occupancy) with city-level performance comparison*  
+
 ![ADR_Vs_Occupancy](/atliq_hospitality_business_insights/images/adr_vs_occupancy.jpg)
+
 *ADR vs Occupancy trends with Week-over-Week % changes across properties*  
+
 ![Cancellations_Insights](/atliq_hospitality_business_insights/images/cancellations.jpg)
+
 *Cancellation analysis showing 25% revenue loss risk and channel-wise contribution*  
 
 ---
