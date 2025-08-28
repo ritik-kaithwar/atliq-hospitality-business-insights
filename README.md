@@ -151,4 +151,4 @@ The data model was designed as a star schema for efficient reporting.
 ## Author  
 **Ritik Kaithwar**  
 
-![Overview](/images/overview.jpg)
+![Overview](atliq-hospitality-business-insights/images/overview.jpg)
