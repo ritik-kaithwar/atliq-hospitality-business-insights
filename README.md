@@ -39,7 +39,8 @@ This project demonstrates end-to-end analytics, data storytelling, and dashboard
 - fact_bookings → booking-level data (booking_id, dates, platform, status, amounts etc.)  
 - fact_aggregated_bookings → aggregated daily performance  
 
-The data model was designed as a star schema for efficient reporting.  
+The data model was designed as a star schema for efficient reporting.
+![Data_Model](/atliq_hospitality_business_insights/images/data_model.PNG)  
 
 ---
 
@@ -60,7 +61,8 @@ The data model was designed as a star schema for efficient reporting.
    - Established relationships in Power BI for efficient slicing/filtering.  
 
 3. **DAX Measures & KPIs**  
-   - Built calculated measures for revenue, RevPAR, ADR, occupancy, cancellations, etc.  
+   - Built calculated measures for revenue, RevPAR, ADR, occupancy, cancellations, lead time etc.
+   - Built WoW% measures for Revenue, Occupancy, ADR etc. to compare weekly performance across city, property, and channel.    
    - Designed contribution analysis across city, property, channel, and room category.  
 
 4. **Exploratory Analysis**  
@@ -94,6 +96,9 @@ The data model was designed as a star schema for efficient reporting.
 ### Contribution Analysis  
 - Revenue by city, property, channel, room category  
 
+### Comparative Metrics  
+- Week-over-Week % (WoW%) for Revenue, Occupancy, and ADR across city, property, and channel dimensions  
+
 ---
 
 ## Key Insights  
@@ -126,10 +131,17 @@ The data model was designed as a star schema for efficient reporting.
 ---
 
 ## Deliverables  
-- Power BI Dashboard File & Images
-- Final Business Report
+- Power BI Dashboard (.pbix) File
+- Final Business Report pdf
 - Data Model Image  
 - Metadata (Excel): Data model documentation exported via DMV queries in DAX Studio  
+
+---
+
+## Dashboard Preview  
+![Overview](/atliq_hospitality_business_insights/images/overview.jpg)
+![ADR_Vs_Occupancy](/atliq_hospitality_business_insights/images/adr_vs_occupancy.jpg)
+![Cancellations_Insights](/atliq_hospitality_business_insights/images/cancellations.jpg)
 
 ---
 
