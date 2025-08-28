@@ -1,11 +1,11 @@
+# AtliQ Hospitality — Business Insights Case Study 
+
 ## Project Highlights
 - Built an end-to-end BI solution in Power BI for AtliQ Hospitality.  
 - Analyzed 150K+ bookings across cities, properties, channels, and room types.  
 - Identified ₹295M revenue risk due to cancellations and created a 90-day action roadmap.  
 - Delivered an interactive dashboard and executive report to drive revenue, occupancy, and RevPAR growth.  
-
-# AtliQ Hospitality — Business Insights Case Study  
-
+ 
 ## Overview  
 This project analyzes hotel booking data for AtliQ Hospitality using Power BI.  
 
