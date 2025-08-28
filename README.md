@@ -41,9 +41,6 @@ This project demonstrates end-to-end analytics, data storytelling, and dashboard
 
 The data model was designed as a star schema for efficient reporting.  
 
-### Data Model  
-![Data Model](images/data_model.PNG)  
-
 ---
 
 ## Tools & Technologies  
@@ -128,23 +125,10 @@ The data model was designed as a star schema for efficient reporting.
 
 ---
 
-## Dashboard Preview  
-
-### Overview Page  
-![Overview Dashboard](images/overview.jpg)  
-
-### ADR vs Occupancy Insights  
-![ADR vs Occupancy Insights](images/adr_vs_occupancy.jpg)  
-
-### Cancellation Insights  
-![Cancellation Insights](images/cancellations.jpg)  
-
----
-
 ## Deliverables  
-- Power BI Dashboard: [Download PBIX](powerbi/Atliq_Grand_Insights.pbix)  
-- Final Business Report: [Download PDF](docs/Final_Report.pdf) 
-- Data Model: [View Schema](images/data_model.png)  
+- Power BI Dashboard File & Images
+- Final Business Report
+- Data Model Image  
 - Metadata (Excel): Data model documentation exported via DMV queries in DAX Studio  
 
 ---
