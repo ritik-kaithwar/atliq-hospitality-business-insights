@@ -150,3 +150,5 @@ The data model was designed as a star schema for efficient reporting.
 
 ## Author  
 **Ritik Kaithwar**  
+
+![Data_Model](images/overview.jpg)
